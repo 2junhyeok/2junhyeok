@@ -10,10 +10,10 @@
 </div>
 
 <a href="https://github.com/2junhyeok/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junhyeok&repo=github-readme-stats&theme=one_dark_pro" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2junhyeok&repo=github-readme-stats&theme=one_dark_pro" />
 </a>
-<a href="https://github.com/2junhyeok/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=junhyeok&repo=anuraghazra.github.io&theme=one_dark_pro" />
+<a href="https://github.com/2junhyeok/2junhyeok.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2junhyeok&repo=anuraghazra.github.io&theme=one_dark_pro" />
 </a>
 
     
