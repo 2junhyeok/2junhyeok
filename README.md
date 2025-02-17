@@ -16,6 +16,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2junhyeok&repo=anuraghazra.github.io&theme=one_dark_pro" />
 </a>
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2junhyeok&show_icons=true&theme=tokyonight)
     
 <!--
 **2junhyeok/2junhyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
